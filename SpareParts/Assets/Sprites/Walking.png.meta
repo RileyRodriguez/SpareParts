@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 0
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Test_0
+      name: Walking_0
       rect:
         serializedVersion: 2
         x: 25
@@ -119,365 +119,365 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de07a40993a403741adce79998fe57dd
-      internalID: 340940308
+      spriteID: 8b03dbd7521d42545b04a51b4e82dfa2
+      internalID: 883579032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_1
+      name: Walking_1
       rect:
         serializedVersion: 2
         x: 89
         y: 347
         width: 14
         height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa92f70f145a7d740b0ccf995fade067
-      internalID: -1697102217
+      spriteID: b293b3c8144342f46ad782bd144a8047
+      internalID: -1817377359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_2
+      name: Walking_2
       rect:
         serializedVersion: 2
         x: 153
         y: 347
         width: 14
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3041c54a7859a1442875f2b6088f8dc0
-      internalID: 1474524474
+      spriteID: a935913989f8ff04bb9355a0874fbfef
+      internalID: -1465913123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_3
+      name: Walking_3
       rect:
         serializedVersion: 2
         x: 217
         y: 347
         width: 14
         height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef6feeed15c6de047a65562890195a05
-      internalID: -1308310923
+      spriteID: 47a01ec69cbb70949b313a191e9b1b97
+      internalID: 266030161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_4
+      name: Walking_4
       rect:
         serializedVersion: 2
         x: 25
         y: 283
         width: 14
         height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6772d55e79670344becdcf6805e72e4
-      internalID: -586092101
+      spriteID: 4dc64070d5319614490e7a126f039d5b
+      internalID: 1951378667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_5
+      name: Walking_5
       rect:
         serializedVersion: 2
         x: 89
         y: 283
         width: 14
         height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 284452b8b4384cf46919101cb5beda38
-      internalID: 855866836
+      spriteID: 3e713f2435560ff44a0bc4b8b88c1075
+      internalID: -1173017621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_9
+      name: Walking_9
       rect:
         serializedVersion: 2
         x: 23
         y: 216
         width: 15
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c9bef76e58c24e42bfae91a80622cc1
-      internalID: -2011555297
+      spriteID: 7eceb7f9fd7c6d84f9cc56d6c261e19f
+      internalID: 1236685091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_10
+      name: Walking_10
       rect:
         serializedVersion: 2
         x: 88
         y: 216
         width: 14
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac269dc2c95343c4b906fd93d7609122
-      internalID: 1729258180
+      spriteID: c898fb16d800e7746b6dfffbd62d948c
+      internalID: 161576834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_11
+      name: Walking_11
       rect:
         serializedVersion: 2
         x: 152
         y: 216
         width: 14
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5bf86a1cc4e8c34a8f2501747498c04
-      internalID: 319295921
+      spriteID: 2ae14fbae1aa4b3478682b7fe8e456e7
+      internalID: 314388025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_12
+      name: Walking_12
       rect:
         serializedVersion: 2
         x: 216
         y: 216
         width: 14
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4eab75b5659b7e4e8a7ecb2e94141ae
-      internalID: 1669910590
+      spriteID: 635c35f744935c44da0a4d24177c713c
+      internalID: -1606997150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_16
+      name: Walking_16
       rect:
         serializedVersion: 2
         x: 24
         y: 152
         width: 14
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c574d20b26880f042b4a7d5cf66d769e
-      internalID: -670531173
+      spriteID: 3b082f6a50bc0d848bb20a91ff156ad1
+      internalID: -535216811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_17
+      name: Walking_17
       rect:
         serializedVersion: 2
         x: 88
         y: 152
         width: 14
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a39e64eae0323044ad8dbf676039bc7
-      internalID: 1202209608
+      spriteID: 5008cc309b461834aaf8c1345ff428c6
+      internalID: -1585756673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_21
+      name: Walking_21
       rect:
         serializedVersion: 2
         x: 23
         y: 93
         width: 14
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc37825a18d080b4da75a7fdffb3e183
-      internalID: 1880147380
+      spriteID: fce8318b7bc650f4b9fdaff2046ca2ef
+      internalID: -1175225485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_22
+      name: Walking_22
       rect:
         serializedVersion: 2
         x: 87
         y: 93
         width: 14
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ed6d7269bea9b04c818f0ffbc7b71f3
-      internalID: 2145647792
+      spriteID: 58a702faaa815fd46a3718bdd8c8e880
+      internalID: 1419521592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_23
+      name: Walking_23
       rect:
         serializedVersion: 2
         x: 151
         y: 93
         width: 14
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5164f6ee37b52ad46be2c0e7fb231638
-      internalID: -734487581
+      spriteID: 6c5f7065b5b54a54cbafea507645dc7b
+      internalID: 843157870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_24
+      name: Walking_24
       rect:
         serializedVersion: 2
         x: 215
         y: 93
         width: 14
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e17b00df65a4f64caa2583ea34610da
-      internalID: -1897092649
+      spriteID: a4e23402ce6e97848a4eca8156f2c36d
+      internalID: 520028547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_25
+      name: Walking_25
       rect:
         serializedVersion: 2
         x: 23
         y: 29
         width: 14
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c029aa979b014974582f33bb9397c982
-      internalID: -2122381907
+      spriteID: 4fa3f246b96cc5f469bf00abc0893419
+      internalID: -71837395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Test_26
+      name: Walking_26
       rect:
         serializedVersion: 2
         x: 87
         y: 29
         width: 14
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 218221f8b3386124980fa42e70b0d6db
-      internalID: -505781629
+      spriteID: 660859256c9a2a44d80a9aa3e917249f
+      internalID: -271407969
       vertices: []
       indices: 
       edges: []
@@ -493,34 +493,33 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Test_26: -505781629
-      Test_12: 1669910590
-      Test_22: 2145647792
-      Test_3: -1308310923
-      Test_24: -1897092649
-      Test_4: -586092101
-      Test_18: 704021094
-      Test_25: -2122381907
-      Test_0: 340940308
-      Test_6: -1260999157
-      Test_5: 855866836
-      Test_15: -1777604581
-      Test_20: 1319249465
-      Test_8: -616385106
-      Test_2: 1474524474
-      Test_1: -1697102217
-      Test_23: -734487581
-      Test_10: 1729258180
-      Test_7: 2094838358
-      Test_14: 2133277452
-      Test_21: 1880147380
-      Test_17: 1202209608
-      Test_13: -1907165986
-      Test_16: -670531173
-      Test_11: 319295921
-      Test_9: -2011555297
-      Test_19: 858946457
-      Test_27: -1758818200
+      Walking_17: -1585756673
+      Walking_18: 1673102853
+      Walking_21: -1175225485
+      Walking_3: 266030161
+      Walking_6: 322041158
+      Walking_13: -1308090618
+      Walking_23: 843157870
+      Walking_7: -1884082263
+      Walking_20: 2058369639
+      Walking_9: 1236685091
+      Walking_15: 1812331070
+      Walking_1: -1817377359
+      Walking_5: -1173017621
+      Walking_2: -1465913123
+      Walking_11: 314388025
+      Walking_12: -1606997150
+      Walking_8: 891005787
+      Walking_22: 1419521592
+      Walking_10: 161576834
+      Walking_4: 1951378667
+      Walking_19: 138486370
+      Walking_26: -271407969
+      Walking_0: 883579032
+      Walking_24: 520028547
+      Walking_16: -535216811
+      Walking_25: -71837395
+      Walking_14: -1567561935
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
