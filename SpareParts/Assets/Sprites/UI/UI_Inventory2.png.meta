@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5ad14430f9cc4fc409318d3e8f4345cd
+guid: 929bb24867ec81a41aeae66b45357072
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,22 +105,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_DialogueBox_0
+      name: UI_Inventory2_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 146
-        width: 498
-        height: 184
+        x: 97
+        y: 100
+        width: 318
+        height: 312
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 2}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f43b133fb23673a428199f66d9f49b7e
-      internalID: -1352258273
+      spriteID: b3ff2f7c2a3c17a4c93222375e9fa69c
+      internalID: -306766716
       vertices: []
       indices: 
       edges: []
@@ -128,7 +128,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 57388752c320b2b458d3dc357b91a95e
     internalID: 0
     vertices: []
     indices: 
@@ -136,7 +136,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      UI_DialogueBox_0: -1352258273
+      UI_Inventory2_0: -306766716
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,0 +1,8 @@
+[NAME=Test 1][SPEAKERSPRITE=] Hi Test 1
+[NAME=Test 2][SPEAKERSPRITE=]  Test 2 here
+[NAME=Test 1][SPEAKERSPRITE=] Hi Test 1
+[NAME=Test 2][SPEAKERSPRITE=]  Test 2 here
+[NAME=Test 1][SPEAKERSPRITE=] Hi Test 1
+[NAME=Test 2][SPEAKERSPRITE=]  Test 2 here
+[NAME=Test 1][SPEAKERSPRITE=] Hi Test 1
+[NAME=Test 2][SPEAKERSPRITE=]  Test 2 here
