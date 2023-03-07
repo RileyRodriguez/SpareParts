@@ -1,0 +1,32 @@
+[NAME=Andon][SPEAKERSPRITE=]Why, hello.
+I haven't seen a new person in so long.
+[NAME=You][SPEAKERSPRITE=]Your security guard may be to blame. 
+[NAME=Andon][SPEAKERSPRITE=]Security Guard?
+I don't have a security guard.
+[NAME=You][SPEAKERSPRITE=]AUT0 outside? 
+They wouldn't let me in until I gave them (some item that's found in the trash).
+[NAME=Andon][SPEAKERSPRITE=]That blasted robot. 
+I told them to go away. 
+They just want someone to find their lost (whatever item that you found)for them. 
+They keep coming in here to see if someone has tried to sell it and I keep telling them that it is probably out in the trash.
+[NAME=You][SPEAKERSPRITE=]Well, I guess you were right.
+[NAME=Andon][SPEAKERSPRITE=]Where'd you find it? The trash?
+[NAME=You][SPEAKERSPRITE=]Yep, exactly.
+[NAME=Andon][SPEAKERSPRITE=]They should have just listened to me and all of this confusion coulda been avoided. 
+[NAME=You][SPEAKERSPRITE=]Um... yeah
+Would you mind if I asked you for a favor?
+[NAME=Andon][SPEAKERSPRITE=]Of course not, what can I do for ya?
+[NAME=You][SPEAKERSPRITE=]Do you happen to have (name of item that Twins wanted)?
+I need to find one so that I can get on out of the city.
+[NAME=Andon][SPEAKERSPRITE=]I believe we have one of those. Let me scan the shop right quick. 
+...
+...
+Here it is, one (name of part) just for ya. 
+[NAME=You][SPEAKERSPRITE=]How much do I owe you for it?
+I don't have much.
+[NAME=Andon][SPEAKERSPRITE=]Nonsense! You can just have it.
+Looks like someone just left this in here one day so I added it to my stock.
+It was nice to talk to a stranger so I'll give it to ya free of charge.
+
+
+

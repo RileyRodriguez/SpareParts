@@ -1,0 +1,16 @@
+Note: Arguing and want player to retrieve item from Andon for them. They think that Andon stole it and they want you to get it back.
+
+[NAME=M1][SPEAKERSPRITE=]Maybe they'll hear us if we yell again.
+[NAME=M2][SPEAKERSPRITE=]They haven't hear us his whole time, why would they hear us now?
+There's no use.
+[NAME=M1][SPEAKERSPRITE=]HELLO!
+[NAME=You][SPEAKERSPRITE=]Calm down!
+There's no need to yell. I'm right here.
+[NAME=M2][SPEAKERSPRITE=]I told you that it was pointless to yell.
+[NAME=M1][SPEAKERSPRITE=]Well, they're here aren't they. 
+Seems like it worked pretty well.
+[NAME=M2][SPEAKERSPRITE=]Whatever. 
+[NAME=You][SPEAKERSPRITE=]Who are you?
+[NAME=Mach][SPEAKERSPRITE=]I'm Mach and that one is Mecha. 
+You can ignore her. She's just mad that Andon took her (item). 
+[NAME=Mecha][SPEAKERSPRITE=]Why do they even need the (item)?! No one ever goes in their shop anyway. 
