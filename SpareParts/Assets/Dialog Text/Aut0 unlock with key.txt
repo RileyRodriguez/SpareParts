@@ -1,1 +1,0 @@
-[NAME=Aut0][SPEAKERSPRITE=]I will be taking (item) from you. Good day. 

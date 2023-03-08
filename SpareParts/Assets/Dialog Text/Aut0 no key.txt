@@ -1,1 +1,0 @@
-[NAME=Aut0][SPEAKERSPRITE=]You don't have (item). Why are you talking to me?

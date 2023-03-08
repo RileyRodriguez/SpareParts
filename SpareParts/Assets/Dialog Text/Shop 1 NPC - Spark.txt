@@ -1,16 +1,16 @@
 [NAME=Spark][SPEAKERSPRITE=]What do you need?
-[NAME=You][SPEAKERSPRITE=]My motorcycle broke down.
+[NAME=You][SPEAKERSPRITE="PlayerPortrait_1"]My motorcycle broke down.
 [NAME=Spark][SPEAKERSPRITE=]Why should I care?
-[NAME=You][SPEAKERSPRITE=]I guess you don't have too. 
+[NAME=You][SPEAKERSPRITE=PlayerPortrait_1]I guess you don't have too. 
 I need your help. 
 [NAME=Spark][SPEAKERSPRITE=]What makes you think I want to help some random person?
-[NAME=You][SPEAKERSPRITE=]The quicker you help me, the quicker I can leave. 
+[NAME=You][SPEAKERSPRITE=PlayerPortrait_1]The quicker you help me, the quicker I can leave. 
 [NAME=Spark][SPEAKERSPRITE=]Fine. What can I help you with?
-[NAME=You][SPEAKERSPRITE=]Do you know what motorcycle parts I need?
+[NAME=You][SPEAKERSPRITE=PlayerPortrait_1]Do you know what motorcycle parts I need?
 [NAME=Spark][SPEAKERSPRITE=]Let me scan the area for motorcycles.
 ...
 I've found one broken motorcycle in the area. It is located next to ... (building). Would this be yours?
-[NAME=You][SPEAKERSPRITE=]I think so. I didn't pay attention to the area where I left it. 
+[NAME=You][SPEAKERSPRITE=PlayerPortrait_1]I think so. I didn't pay attention to the area where I left it. 
 [NAME=Spark][SPEAKERSPRITE=]According to my data, you are in need of .... (list of the parts that need to be collected)
 I only have .... (one specific part) to give you. You will have to find everything else somewhere else. 
 You can leave now.

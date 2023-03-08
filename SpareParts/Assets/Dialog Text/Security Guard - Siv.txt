@@ -1,15 +1,15 @@
-[NAME=Aut0][SPEAKERSPRITE=]STOP!
+[NAME=Siv][SPEAKERSPRITE=]STOP!
 [NAME=You][SPEAKERSPRITE=]WHAT?
-[NAME=Aut0][SPEAKERSPRITE=]You cannot enter. 
+[NAME=Siv][SPEAKERSPRITE=]You cannot enter. 
 You may be a thief.
 [NAME=You][SPEAKERSPRITE=]Do I look like a thief to you?
-[NAME=Aut0][SPEAKERSPRITE=]Everyone looks like a thief. 
+[NAME=Siv][SPEAKERSPRITE=]Everyone looks like a thief. 
 You are no different.
 [NAME=You][SPEAKERSPRITE=]How can I prove to you that I'm not going to steal anything.
-[NAME=Aut0][SPEAKERSPRITE=]You can't.
+[NAME=Siv][SPEAKERSPRITE=]You can't.
 ...
 Actually...
 If you bring me (name of item), I can see about letting you in.
 [NAME=You][SPEAKERSPRITE=]Why (name of item)?
-[NAME=Aut0][SPEAKERSPRITE=]Don't question me!
+[NAME=Siv][SPEAKERSPRITE=]Don't question me!
 You either give me (item name) or you don't get in. Your decision. 
