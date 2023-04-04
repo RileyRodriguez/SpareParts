@@ -12,6 +12,7 @@ public class ItemPickup : MonoBehaviour
     public Sprite displaySprite;
     public Color spriteDye = new Color(1.0f,1.0f,1.0f, 1.0f);
 
+
     private void OnTriggerEnter(Collider collision)
     {
         if (collision.tag == "Player")
@@ -20,6 +21,7 @@ public class ItemPickup : MonoBehaviour
             inv.AddItemToInventory(new PlayerInventory.Item(itemName, itemID, displaySprite, spriteDye, destroyOnUse));
 
             this.gameObject.SetActive(false);
+
         }
     }
 }

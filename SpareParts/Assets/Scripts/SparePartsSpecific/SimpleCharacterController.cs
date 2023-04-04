@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SimpleCharacterController : MonoBehaviour
 {
+    public AudioSource footstepSound;
     public Animator animator;
     private CharacterController characterController;
     public float Speed = 5f;
@@ -27,10 +28,18 @@ public class SimpleCharacterController : MonoBehaviour
         animator.SetFloat("Horizontal", Horizontal);
         animator.SetFloat("Vertical", Vertical);
 
+        //Play Footstep sound
+        if (isMoving>0)
+        {
+            footstepSound.enabled = true;
+        } else
+        {
+            footstepSound.enabled = false;
+        }
+
         //Move Character
         Vector3 move = new Vector3(Horizontal, 0, Vertical);
         characterController.Move(move * Time.deltaTime * Speed);
-
         
     }
 }
