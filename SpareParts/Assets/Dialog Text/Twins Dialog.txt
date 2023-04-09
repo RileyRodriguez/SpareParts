@@ -1,0 +1,22 @@
+[NAME=M1][SPEAKERSPRITE=]Maybe they'll hear us if we yell again.
+[NAME=M2][SPEAKERSPRITE=]They haven't heard us this whole time, why would they hear us now?
+There's no use.
+[NAME=M1][SPEAKERSPRITE=]HELLO!
+[NAME=You][SPEAKERSPRITE=]Calm down!
+There's no need to yell. I'm right here.
+[NAME=M2][SPEAKERSPRITE=]I told you that it was pointless to yell.
+[NAME=M1][SPEAKERSPRITE=]Well, they're here aren't they. 
+Seems like it worked pretty well.
+[NAME=M2][SPEAKERSPRITE=]Whatever. 
+[NAME=You][SPEAKERSPRITE=]Who are you?
+[NAME=Mach][SPEAKERSPRITE=]I'm Mach and that one is Mecha. 
+You can ignore her. She's just mad that she lost a gear. 
+[NAME=Mecha][SPEAKERSPRITE=]Why would someone even need it?! No one ever goes anywhere around here. 
+[NAME=You][SPEAKERSPRITE=]I was actually looking for gears.
+Need to get my motorcycle up and running so I can get out of town.
+[NAME=Mecha][SPEAKERSPRITE=]Ugh, not someone else that wants to steal my gear. 
+Get out of my face.
+[NAME=Mach][SPEAKERSPRITE=]Sorry about her, she's just a little on edge.
+You might want to look in the trash piles around here if you want to find a gear. 
+[NAME=You][SPEAKERSPRITE=]Thanks for letting me know.
+[NAME=Mach][SPEAKERSPRITE=]No problem, but I gotta go console my sister.

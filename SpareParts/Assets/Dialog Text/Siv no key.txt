@@ -1,1 +1,1 @@
-[NAME=Siv][SPEAKERSPRITE=]You don't have (item). Why are you talking to me?
+[NAME=Siv][SPEAKERSPRITE=]You don't have my flask. Why are you talking to me?
