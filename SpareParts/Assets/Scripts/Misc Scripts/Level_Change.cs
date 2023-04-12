@@ -18,7 +18,7 @@ public class Level_Change : MonoBehaviour
             //The scene number to load (in File->Build Settings)
             if (useGameSceneManager)
             {
-                GameObject.FindGameObjectWithTag("GameceneManager").GetComponent<GameSceneManager>().LoadScene(levelIndex);
+                GameObject.FindGameObjectWithTag("GameSceneManager").GetComponent<GameSceneManager>().LoadScene(levelIndex);
             }
             else
             {
