@@ -11,8 +11,11 @@ I need your help.
 ...
 I've found one broken motorcycle in the area. It is located next to the southern barrier. Would this be yours?
 [NAME=You][SPEAKERSPRITE=]I think so. I didn't pay attention to the area where I left it.
-[NAME=Spark][SPEAKERSPRITE=]According to my data, you are in need 3 gears. 
-I would look for gears in the garbage around here if I were you. Especially in the dumpsters.
+[NAME=Spark][SPEAKERSPRITE=]According to my data, you are in need of 9 parts.
+A headlight, rear axle, engine, battery, seat, handlebars, suspension, and 2 tires. 
+I can give you the suspension but that is all. 
+Looking through the garbage around the city would be most helpful.
+I might have seen a seat in a dumpster around here.
 ...
 ...
 You can leave now.

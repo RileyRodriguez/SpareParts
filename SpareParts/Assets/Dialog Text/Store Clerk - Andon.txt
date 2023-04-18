@@ -1,27 +1,27 @@
 [NAME=Andon][SPEAKERSPRITE=]Why, hello.
 I haven't seen a new person in so long.
-[NAME=You][SPEAKERSPRITE=]Your security guard may be to blame. 
-[NAME=Andon][SPEAKERSPRITE=]Security Guard?
-I don't have a security guard.
-[NAME=You][SPEAKERSPRITE=]AUT0 outside? 
-They wouldn't let me without an argument.
-[NAME=Andon][SPEAKERSPRITE=]That blasted robot. 
-I told them to go away. 
-[NAME=You][SPEAKERSPRITE=]Um... yeah
-Would you mind if I asked you for a favor?
-[NAME=Andon][SPEAKERSPRITE=]Of course not, what can I do for ya?
-[NAME=You][SPEAKERSPRITE=]Do you happen to have a gear?
-I need to find a few so that I can get on out of the city.
-[NAME=Andon][SPEAKERSPRITE=]I believe we have one of those. Let me scan the shop right quick. 
+[NAME=You][SPEAKERSPRITE=]Your barrier may be to blame.
+[NAME=Andon][SPEAKERSPRITE=]Barrier?
+I took that down a long time ago. 
+[NAME=You][SPEAKERSPRITE=]Well, there is one. 
+[NAME=Andon][SPEAKERSPRITE=]That blasted robot.
+I told them to go away.
+[NAME=You][SPEAKERSPRITE=]Who?
+There wasn’t anyone out there. 
+[NAME=Andon][SPEAKERSPRITE=]AUT0 pretends to help by keeping “thieves” out. 
+All they’re doing is running off customers.
+[NAME=You][SPEAKERSPRITE=]Oh, well I’m sorry to hear that.
+[NAME=Andon][SPEAKERSPRITE=]It’ll be alright. I’ll have a chat with them.
+Anyway, what can I do for ya?
+[NAME=You][SPEAKERSPRITE=]Do you happen to have a headlight?
+I need to find one so that I can get on out of the city.
+[NAME=Andon][SPEAKERSPRITE=]I believe we have one of those. Let me scan the shop right quick.
 ...
 ...
-There should be one in that green bin next to the benches.  
+There should be one in that green bin next to the benches.
 [NAME=You][SPEAKERSPRITE=]How much do I owe you for it?
 I don't have much.
 [NAME=Andon][SPEAKERSPRITE=]Nonsense! You can just have it as long as you go fish it out.
 Looks like someone just left it in here one day.
 It was nice to talk to a stranger so I'll give it to ya free of charge.
 Good luck on your journey!
-
-
-
