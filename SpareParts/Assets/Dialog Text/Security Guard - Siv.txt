@@ -1,15 +1,15 @@
 [NAME=Siv][SPEAKERSPRITE=]STOP!
-[NAME=You][SPEAKERSPRITE=]WHAT?
+[NAME=Zeta][SPEAKERSPRITE=]WHAT?
 [NAME=Siv][SPEAKERSPRITE=]You cannot enter.
 You may be a thief.
-[NAME=You][SPEAKERSPRITE=]Do I look like a thief to you?
+[NAME=Zeta][SPEAKERSPRITE=]Do I look like a thief to you?
 [NAME=Siv][SPEAKERSPRITE=]Everyone looks like a thief.
 You are no different.
-[NAME=You][SPEAKERSPRITE=]How can I prove to you that I'm not going to steal anything.
+[NAME=Zeta][SPEAKERSPRITE=]How can I prove to you that I'm not going to steal anything.
 [NAME=Siv][SPEAKERSPRITE=]You can't.
 ...
 Actually...
 If you bring me my flask, I can see about letting you in.
-[NAME=You][SPEAKERSPRITE=]Why a flask? Can you even drink?
+[NAME=Zeta][SPEAKERSPRITE=]Why a flask? Can you even drink?
 [NAME=Siv][SPEAKERSPRITE=]Don't question me!
 You either give me my flask or you don't get in. Your decision.

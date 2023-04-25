@@ -2,17 +2,17 @@
 [NAME=M2][SPEAKERSPRITE=]They haven't heard us this whole time, why would they hear us now?
 There's no use.
 [NAME=M1][SPEAKERSPRITE=]HELLO!
-[NAME=You][SPEAKERSPRITE=]Calm down!
+[NAME=Zeta][SPEAKERSPRITE=]Calm down!
 There's no need to yell. I'm right here.
 [NAME=M2][SPEAKERSPRITE=]I told you that it was pointless to yell.
 [NAME=M1][SPEAKERSPRITE=]Well, they're here aren't they.
 Seems like it worked pretty well.
 [NAME=M2][SPEAKERSPRITE=]Whatever.
-[NAME=You][SPEAKERSPRITE=]Who are you?
+[NAME=Zeta][SPEAKERSPRITE=]Who are you?
 [NAME=Mach][SPEAKERSPRITE=]I'm Mach and that one is Mecha.
 You can ignore her. She's just mad that she lost her light.
 [NAME=Mecha][SPEAKERSPRITE=]Why would someone even need it?! No one ever goes anywhere around here.
-[NAME=You][SPEAKERSPRITE=]I was actually looking for motorcycle parts.
+[NAME=Zeta][SPEAKERSPRITE=]I was actually looking for motorcycle parts.
 Need to get my motorcycle up and running so I can get out of town.
 [NAME=Mecha][SPEAKERSPRITE=]Ugh, not someone else that wants to steal my stuff.
 Get out of my face.
@@ -20,5 +20,5 @@ Get out of my face.
 You might want to look in the trash piles around here if you want to find motorcycle parts.
 You can also have that rear axle over there. We definitely don't need it. 
 Might even want to check the rooftop bar. It's back the way you came from and to the right.
-[NAME=You][SPEAKERSPRITE=]Thanks for letting me know.
+[NAME=Zeta][SPEAKERSPRITE=]Thanks for letting me know.
 [NAME=Mach][SPEAKERSPRITE=]No problem, but I gotta go console my sister.

@@ -406,7 +406,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh40680
+  m_Name: pb_Mesh24340
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -799,6 +799,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8239c1185d045454d8d2f8c4080754ca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09f16b740d01b2a48bbfd8843a395b2e, type: 2}
     - target: {fileID: 919132149155446097, guid: 8239c1185d045454d8d2f8c4080754ca, type: 3}
       propertyPath: m_Name
       value: billboard
@@ -2519,7 +2523,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.002, y: -0.153}
+  m_AnchoredPosition: {x: 0.14, y: -0.6}
   m_SizeDelta: {x: 2.0489, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &786569685
@@ -2551,8 +2555,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4287388160
+  m_fontColor: {r: 0, g: 0.3529412, b: 0.54901963, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2569,10 +2573,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 0.8
-  m_fontSizeBase: 7
+  m_fontSize: 0.6
+  m_fontSizeBase: 0.6
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 0.6
   m_fontSizeMax: 1.14
   m_fontStyle: 0
@@ -2991,7 +2995,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &866127802
 Transform:
   m_ObjectHideFlags: 0
@@ -3523,7 +3527,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1012699229}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 31}
   m_LocalScale: {x: 422.74, y: 422.74, z: 15.546474}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3534,7 +3538,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 866, y: 95.33}
+  m_AnchoredPosition: {x: 779, y: -64}
   m_SizeDelta: {x: 1.09, y: 0.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1012699231
@@ -5935,7 +5939,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 867, y: -188}
+  m_AnchoredPosition: {x: 867, y: -61.999718}
   m_SizeDelta: {x: 0.94, y: 0.34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1544593718
@@ -7243,7 +7247,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.103, y: 0.06}
+  m_AnchoredPosition: {x: -0.172, y: 0.02}
   m_SizeDelta: {x: 3, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1799424171
@@ -7293,10 +7297,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 0.8
-  m_fontSizeBase: 7
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 0.6
   m_fontSizeMax: 1.14
   m_fontStyle: 0
@@ -7703,7 +7707,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.1166, y: -0.069}
+  m_AnchoredPosition: {x: 0.23, y: -0.069}
   m_SizeDelta: {x: 2.8264, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1985939310
@@ -7735,8 +7739,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4287388160
+  m_fontColor: {r: 0, g: 0.3529412, b: 0.54901963, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -7753,10 +7757,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 0.6
-  m_fontSizeBase: 7
+  m_fontSize: 0.5
+  m_fontSizeBase: 0.5
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 0.6
   m_fontSizeMax: 1.14
   m_fontStyle: 0
@@ -7813,6 +7817,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1987444112}
   - component: {fileID: 1987444113}
+  - component: {fileID: 1987444114}
   m_Layer: 0
   m_Name: Spot Light (2)
   m_TagString: Untagged
@@ -7827,14 +7832,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1987444111}
-  m_LocalRotation: {x: 0.58289343, y: -0, z: -0, w: 0.81254864}
-  m_LocalPosition: {x: 6.97, y: -5.8299885, z: 11.639873}
+  m_LocalRotation: {x: 0.7845627, y: -0, z: -0, w: 0.62004954}
+  m_LocalPosition: {x: 7.5725884, y: -5.1300025, z: 11.399884}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1905789867}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 71.309, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 103.359985, y: 0, z: 0}
 --- !u!108 &1987444113
 Light:
   m_ObjectHideFlags: 0
@@ -7897,6 +7902,20 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &1987444114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1987444111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3f47c83d5e104141b818a28c9abecba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minIntensity: 1.85
+  maxIntensity: 3.58
 --- !u!1001 &2001413611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8147,7 +8166,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 877, y: 315}
+  m_AnchoredPosition: {x: 795, y: 248.00027}
   m_SizeDelta: {x: 1.37, y: 0.42}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2008206571
